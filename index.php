@@ -143,7 +143,7 @@ function milhoes($valor) {
             font-size: 18px;
         }
         .info-valor {
-            width: 120px;
+            width: 160px;
             text-align: right;
             font-size: 12px;
             color: #555;
